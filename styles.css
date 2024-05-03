@@ -1,0 +1,32 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    max-width: 600px;
+    margin: 0 auto;
+    text-align: center;
+    padding: 20px;
+}
+
+h1 {
+    color: #0f0f0f;
+}
+
+.options button {
+    margin: 5px;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+#result {
+    margin-top: 20px;
+    font-weight: bold;
+}
+body {
+    background-color: rgb(184, 145, 145);
+}
+.options button {
+    background-color: beige;
+}
